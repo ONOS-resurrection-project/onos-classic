@@ -1,5 +1,7 @@
 # ONOS: Open Network Operating System
 
+[![Archived](https://img.shields.io/badge/Archived-last--version--from--ONF-blue.svg)](https://github.com/opennetworkinglab/onos)
+
 ## What is ONOS?
 
 ONOS is the only SDN controller platform that supports the transition from legacy “brown field” networks to SDN “green field” networks. This enables exciting new capabilities, and disruptive deployment and operational cost points for network operators.
