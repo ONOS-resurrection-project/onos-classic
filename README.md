@@ -38,7 +38,7 @@ is no longer available or actively maintained.
 
 ### Motivation behind the fork
 
-This fork is going to be maintained for **educational and research purposes** by [Alessio Giorgetti](https://github.com/alessiocnit), an active contributor to the official upstream ONOS repository (with contributions including optical network extensions and ODTN drivers). The goal of this project is to keep ONOS accessible, buildable on modern environments, and ready for use in SDN labs, experiments, and research.
+This fork is going to be maintained for **educational and research purposes** by [Alessio Giorgetti](https://github.com/alessiounipi), an active contributor to the official upstream ONOS repository (with contributions including optical network extensions and ODTN drivers). The goal of this project is to keep ONOS accessible, buildable on modern environments, and ready for use in SDN labs, experiments, and research.
 
 ### References
 
@@ -51,6 +51,7 @@ This fork is going to be maintained for **educational and research purposes** by
 ## Documentation
 
 The complete ONOS Classic documentation has been restored and is available through both:
+
 - **[GitHub Wiki (Integrated)](https://github.com/bhuiyan-chafi/onos-classic/wiki)**: Native wiki directly attached to this repository with structured navigation.
 - **[Searchable Online Mirror](https://andrea-campanella.github.io/onos-classic-wiki/)**: Full-text searchable documentation portal powered by MkDocs Material.
 
@@ -62,7 +63,6 @@ Choose one of the following installation methods to get started:
 
 - **Build from source**: follow the [From Source Guide](./docs/FROM_SOURCE.md).
 - **Run with Docker Hub**: follow the [Docker Hub Guide](./docs/FROM_DOCKER_HUB.md).
-- **Run with Kathará**: follow the [Kathará + ONOS Guide](./docs/katharaXonos/FROM_KATHARA_CORE.md).
 
 ---
 
@@ -71,13 +71,14 @@ Choose one of the following installation methods to get started:
 - **Alessio Giorgetti**
   - Role: Associate Professor
   - Affiliation: Department of Information Engineering (Dipartimento di Ingegneria dell'Informazione), University of Pisa, Pisa, Italy
-  - GitHub: [@alessiocnit](https://github.com/alessiocnit)
+  - GitHub: [@alessiounipi](https://github.com/alessiounipi)
 
 ### Lab Activities
 
 - **ASM CHAFIULLAH BHUIYAN**
   - Role: Research Fellow
   - Affiliation: University of Pisa, Pisa, Italy
+  - GitHub: [@bhuiyan-chafi](https://github.com/bhuiyan-chafi)
 
 ---
 

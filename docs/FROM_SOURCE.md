@@ -47,7 +47,7 @@ You should see output similar to:
 Clone the `onos-classic` repository:
 
 ```bash
-git clone https://github.com/alessiocnit/onos-classic.git
+git clone https://github.com/ONOS-resurrection-project/onos-classic.git
 cd onos-classic
 ```
 
@@ -101,6 +101,7 @@ When prompted, enter the default password: **`rocks`**.
 ### Access the Web GUI
 
 Open your web browser and navigate to:
+
 - **URL**: [http://localhost:8181/onos/ui](http://localhost:8181/onos/ui)
 - **Username**: `onos` (or `karaf`)
 - **Password**: `rocks` (or `karaf`)
